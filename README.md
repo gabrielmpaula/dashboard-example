@@ -1,4 +1,4 @@
-#Interactive map with population of cities in India
+# Interactive map with population of cities in India
 
 ## Sample project created using Dash, Plotly and Mapbox
 
