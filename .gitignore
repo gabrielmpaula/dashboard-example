@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# mapbox credentials
+src/mapbox_credentials.json
