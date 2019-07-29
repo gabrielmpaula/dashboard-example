@@ -4,4 +4,4 @@
 
 Sample project of a interactive map showing the population in India cities.
 The data was spplited in four different files (datasets).
-The datasets can be selected in a dropdown menu whithin the Dash application.
+The datasets can be selected in a dropdown menu inside the Dash application.
